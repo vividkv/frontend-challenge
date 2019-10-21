@@ -1,2 +1,2 @@
-# frontend-challenge
+# Frontend-challenge
 Bloc Frontend Challenge
